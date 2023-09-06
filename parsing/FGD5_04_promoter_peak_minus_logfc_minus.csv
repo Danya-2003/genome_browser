@@ -1,0 +1,3 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+18,11980563,11980963,401,*,X1861,ENSG00000141401,11981025,12030877,49853,+,61,upstream,61,inositol monophosphatase 2 [Source:HGNC Symbol;Acc:HGNC:6051],chr181198056311980963,-0.514798571043285,-0.486762530225389
+10,91632762,91633162,401,*,X3046,ENSG00000119938,91628442,91633071,4630,-,0,overlapStart,0,protein phosphatase 1 regulatory subunit 3C [Source:HGNC Symbol;Acc:HGNC:9293],chr109163276291633162,-0.500696856291873,-0.512766125919908

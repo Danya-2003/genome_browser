@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+3,4979316,4979716,401,*,X697,ENSG00000134107,4979437,4985323,5887,+,0,overlapStart,0,basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046],chr349793164979716,-1.020664913085,0.324978612767831

@@ -1,0 +1,3 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+8,60516853,60517253,401,*,X23,ENSG00000104388,60516936,60623644,106709,+,0,overlapStart,0,RAB2A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9763],chr86051685360517253,-3.04107813661207,-0.137716677437241
+3,14178122,14178522,401,*,X540,ENSG00000170860,14178817,14201122,22306,+,294,upstream,294,LSM3 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:17874],chr31417812214178522,-1.99449833956113,-0.311937575240312

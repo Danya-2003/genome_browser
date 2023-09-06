@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+19,18943606,18944006,401,*,X18186,ENSG00000051128,18929201,18941261,12061,-,2344,upstream,2344,homer scaffold protein 3 [Source:HGNC Symbol;Acc:HGNC:17514],chr191894360618944006,1.40727347215477,-0.416984271052316

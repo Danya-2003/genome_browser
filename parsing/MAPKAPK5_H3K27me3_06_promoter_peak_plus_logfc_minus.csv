@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+3,158105558,158105958,401,*,X866,ENSG00000174891,158105855,158545730,439876,+,0,overlapStart,0,arginine and serine rich coiled-coil 1 [Source:HGNC Symbol;Acc:HGNC:24152],chr3158105558158105958,1.94312103875305,-0.953685464949419

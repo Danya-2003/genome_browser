@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+22,50089833,50090233,401,*,X1540,ENSG00000073146,50089879,50161690,71812,+,0,overlapStart,0,Mov10 like RISC complex RNA helicase 1 [Source:HGNC Symbol;Acc:HGNC:7201],chr225008983350090233,0.471164751304045,-0.626660493439406

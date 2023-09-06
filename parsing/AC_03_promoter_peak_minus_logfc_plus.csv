@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+19,55482288,55482688,401,*,X2913,ENSG00000090971,55485188,55487568,2381,+,2499,upstream,2499,N-acetyltransferase 14 (putative) [Source:HGNC Symbol;Acc:HGNC:28918],chr195548228855482688,-1.10285540448011,0.703257162628959

@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+19,39498243,39498643,401,*,X17443,ENSG00000090932,39498895,39508481,9587,+,251,upstream,251,delta like canonical Notch ligand 3 [Source:HGNC Symbol;Acc:HGNC:2909],chr193949824339498643,1.72522098137385,1.15128605867207

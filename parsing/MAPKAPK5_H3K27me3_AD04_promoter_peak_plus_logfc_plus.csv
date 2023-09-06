@@ -1,0 +1,2 @@
+seqnames,start,end,width,strand,peak,feature,feature.ranges.start,feature.ranges.end,feature.ranges.width,feature.strand,distance,insideFeature,distanceToSite,description,index,diffpeak,logfc
+7,44103832,44104232,401,*,X495,ENSG00000106624,44104345,44114562,10218,+,112,upstream,112,AE binding protein 1 [Source:HGNC Symbol;Acc:HGNC:303],chr74410383244104232,2.48265145870406,0.459066321005861
