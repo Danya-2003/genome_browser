@@ -1,0 +1,1 @@
+chr	start	stop	name	-1xlog10(p-value)	xSqrd	-1xlog10(Right-Tail Probability)	-1xlog10(AdjustedP-value)
